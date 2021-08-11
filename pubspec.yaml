@@ -12,7 +12,7 @@ dependencies:
     sdk: flutter
 
   dio: ^3.0.10
-  rxdart: ^0.24.1
+  rxdart: ^0.27.1
 
 
 
